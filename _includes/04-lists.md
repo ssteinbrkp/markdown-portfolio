@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# Great Authors
+- Neal Stephenson
+- Neil Gaimen
+- Erin Morganstern
+- Jeff Vandermeer
